@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table,th,td
+{
+border: 1px solid black;
+border-collapse:collapse;
+}
+</style>
+<title>
+Fruits
+</title>
+</head>
+<body>
+<p>
+</p>
+<table style="width:100%>
+<tr>
+  <th>Apple</th>
+  <th> Pomogranate</th>
+</tr>
+<tr>
+  <td>150/kg</td>
+<td>180/kg</td>
+</table>
+<body>
+
+</body>
+</html>

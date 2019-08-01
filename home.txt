@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel= "stylesheet" type = "text/css" href = "mystyle.css">
+
+  <title>home</title>
+
+</head>
+<body>
+<nav>
+ <ul>
+  <li><a href="poc\home1.html">Home</a></li>
+  <li><a href="C:\Users\revathi\Desktop\poc\about.html">About</a></li>
+  <li><a href="poc\contact.html">Contact</a></li>
+ </ul>
+</nav>
+
+
+
+<div class="row">
+  <div class="column">
+<img class="img" src="fruits.jpg" >
+   <h2 class="h2">Fresh Fruits</h2>
+   
+ <form action="#" method="post">
+  <input class="button" type="submit" value="Submit">
+</div>
+
+  <div class="column">
+<img class="img" src="vegetables.jpg">
+  <h2 class="h2">Vegetables</h2>
+
+ <form action="C:\Users\revathi\Desktop\poc" method="post">
+  <input class="button" type="submit" value="Submit">
+
+</div>
+
+
+<div class="column">
+<img class="img" src="bakery.jpg">
+<h2 class="h2">Bakery Foods</h2>
+
+ <form action="#" method="post">
+  <input class="button" type="submit" value="Submit">
+
+</div>
+
+
+<div class="column">
+<img class="img" src="eggmeat.jpg" >
+<h2 class="h2">Eggs and Meat</h2>
+
+ <form action="#" method="post">
+  <input class="button" type="submit" value="Submit">
+
+</div>
+
+</div>
+</body>
+</html>
